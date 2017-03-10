@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 10 18:01:32 CST 2017
+http\://172.20.10.5\:8081/nexus/content/groups/public/.lastUpdated=1489053314206
+https\://raw.githubusercontent.com/wenzuojing/maven_repo/master/repository/.error=
+http\://jcenter.bintray.com/.error=
+http\://jcenter.bintray.com/.lastUpdated=1489140092760
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488161680499
+https\://raw.githubusercontent.com/wenzuojing/maven_repo/master/repository/.lastUpdated=1489140077447
+https\://repo.maven.apache.org/maven2/.error=
