@@ -3,14 +3,15 @@
   <groupId>com.github.wens</groupId>
   <artifactId>mybatis-quick</artifactId>
   <versioning>
-    <release>2.0.6</release>
+    <release>2.1.0</release>
     <versions>
       <version>2.0.1</version>
       <version>2.0.3</version>
       <version>2.0.4</version>
       <version>2.0.5</version>
       <version>2.0.6</version>
+      <version>2.1.0</version>
     </versions>
-    <lastUpdated>20170907040136</lastUpdated>
+    <lastUpdated>20170915081239</lastUpdated>
   </versioning>
 </metadata>
